@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "name": "Mobile_Device_Programming_Exam",
+    "slug": "Mobile_Device_Programming_Exam"
+  }
+}
